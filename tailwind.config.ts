@@ -9,8 +9,12 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        deepCharcoal: '#1E1E1E',
+        brightCyan: '#00E0FF',
+        vividMagenta: '#FF0080',
+        electricOrange: '#FF5A00',
+        softNeonPurple: '#AE00FF',
+        graphiteGrey: '#3A3A3A',
       },
     },
   },
